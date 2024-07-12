@@ -1,0 +1,2 @@
+n_estimators,max_depth,min_samples_leaf,min_samples_split,train_mse,train_r2,val_mse,val_r2
+220,29,1,2,0.0960272378913772,0.9937463729791424,0.692162541857725,0.9539900390989201
