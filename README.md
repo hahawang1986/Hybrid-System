@@ -35,7 +35,7 @@ Based on the established model plotting various of figures  Prevalence Estimate
 
 ## RFL and FSO Generic Model Training  
 ![alt text](picture/rfl_coarse2.png)
-![alt text](picture/rfl_coarse2.png)
+![alt text](picture/fso_coarse2.png)
 
 ## Feature Importance and Pruning with 7 different weather conditions  
 
